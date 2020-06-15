@@ -1,0 +1,37 @@
+////////TODO////////
+
+Models :
+-Initialisation de la BD
+
+View :
+-Accueil       > Delphine
+-Page une fois log
+-Différentes pages du forum (index) > Delphine Sarah
+
+Controllers : > Delphine Sarah Paul Theo
+-Connexion
+-Déconnexion
+-Inscription
+-Post sujets/réponse
+-Messages
+
+
+Index.php	> Delphine / Theo / Sarah / Paul
+
+NLTK, doc etc: > Theo / Paul
+-White list/Black list
+-Bloquer mots
+-Recuperer les mots pour le message d'erreur
+
+Base de données > Delphine / Sarah
+
+Sécurisation BD    > Sarah
+
+
+/////////DONE/////////
+
+Index OK
+View OK
+Controllers OK
+Models OK
+NLTK OK (valide que sur les mots sans accents)
